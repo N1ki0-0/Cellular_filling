@@ -13,7 +13,6 @@ import com.example.ellularfilling.CellViewModel
 import com.example.ellularfilling.screens.Cells
 import com.example.ellularfilling.screens.LazyColumnSample
 import com.example.ellularfilling.screens.SplashScreen
-import com.example.ellularfilling.screens.WelcomeScreen
 
 @Composable
 fun NavHostContainer(navController: NavHostController,
